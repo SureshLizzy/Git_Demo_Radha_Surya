@@ -14,6 +14,9 @@ public class Class1 {
 	public void method4() {
 		System.out.println("method4");
 	}
+	public void method5() {
+		System.out.println("method5");
+	}
 	public void radha() {
 		System.out.println("Radha");
 	}
@@ -21,4 +24,5 @@ public class Class1 {
 	public void soorya() {
 		System.out.println("soorya");
 	}
+
 }
